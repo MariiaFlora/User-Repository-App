@@ -1,0 +1,9 @@
+# Ignore class files
+*.class
+
+# Ignore package files
+*.jar
+*.war
+
+# VSCode settings
+.vscode/
